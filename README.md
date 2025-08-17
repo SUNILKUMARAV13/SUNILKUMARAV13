@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm SunilKumar </h1>
-<h3 align="center">🔬 AI × Chemistry | 🤖 Machine Learning | 🧪 Computational Chemistry</h3>
+<h3 align="center">🔬 Artificial Intelligence × Chemistry | 🤖 Machine Learning | 🧪 Computational Chemistry</h3>
 
 
 
