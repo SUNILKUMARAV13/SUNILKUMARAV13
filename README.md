@@ -7,6 +7,8 @@
 <h1 align="center">👋 Hi, I'm Sunil Kumar Ashok</h1>
 <h3 align="center">🔬 AI × Chemistry | 🤖 Machine Learning | 🧪 Computational Chemistry</h3>
 
+
+
 ## 🌐 Research & Learning Interests
 
 - 🌐 **AI in Chemistry** → GNNs, molecular fingerprints, SMILES  
