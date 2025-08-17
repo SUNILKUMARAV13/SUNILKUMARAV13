@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sunilkumarav13.github.io/" target="_blank">
-    <img src="./banner.gif" alt="AI × Chemistry — Interactive Banner" width="100%" />
+    <img src="./banner.gif" alt="Artificial Intelligence × Chemistry — Interactive Banner" width="100%" />
   </a>
 </p>
 
