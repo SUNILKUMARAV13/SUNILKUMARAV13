@@ -12,8 +12,7 @@
 ## 🌐 Research & Learning Interests
 
 - 🌐 **AI in Chemistry** → GNNs, molecular fingerprints, SMILES  
-- 🧪 **Computational Chemistry** → DFT, MD, quantum simulations  
-- 🔆 **Organic Optoelectronics** → AI design for OLEDs, NIR dyes, solar cells  
+- 🧪 **Computational Chemistry** → DFT, MD, quantum simulations   
 - 📊 **Data Science** → ETL pipelines, visualization, curation  
 
 ---
